@@ -36,3 +36,13 @@ Yet Another Systemmonitor Plasmoid (scripted) is a powerful system monitor.
 %clean
 %__rm -rf %{buildroot}
 
+
+
+%changelog
+* Fri Jun 08 2012 Andrey Bondrov <abondrov@mandriva.org> 1.0.8a-1
++ Revision: 803471
+- imported package plasma-applet-yasp-scripted
+
+
+* Tue May 08 2012 Andrey Bondrov <bondrov@math.dvgu.ru> 1.0.8a-1mdv2010.2
+- Initial build for Mandriva
