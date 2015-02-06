@@ -2,7 +2,7 @@
 
 Name:		plasma-applet-%{oname}
 Version:	1.0.8a
-Release:	1
+Release:	2
 Summary:	Yet Another Systemmonitor Plasmoid (scripted)
 License:	GPLv2+
 Group:		Graphical desktop/KDE
