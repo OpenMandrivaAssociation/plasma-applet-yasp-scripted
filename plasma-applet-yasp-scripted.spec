@@ -6,7 +6,7 @@ Release:	2
 Summary:	Yet Another Systemmonitor Plasmoid (scripted)
 License:	GPLv2+
 Group:		Graphical desktop/KDE
-URL:		http://kde-apps.org/content/show.php?content=109367
+URL:		https://kde-apps.org/content/show.php?content=109367
 Source0:	%{oname}-%{version}.tar.bz2
 BuildRequires:	kdebase4-workspace-devel
 Requires:	kdebase4-runtime
